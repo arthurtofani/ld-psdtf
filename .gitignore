@@ -1,0 +1,9 @@
+session
+./session/*
+./sources/*
+sources
+./new_samples/44100
+new_samples/44100/*
+old_samples
+LD-PSDTF
+./LD-PSDTF/*
