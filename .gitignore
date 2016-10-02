@@ -3,7 +3,6 @@ session
 ./sources/*
 sources/is_nmf/*.wav
 sources/kl_nmf/*.wav
-sources/ld_psdtf/*.wav
 ./new_samples/44100
 new_samples/44100/*
 old_samples
