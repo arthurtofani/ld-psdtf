@@ -1,0 +1,11 @@
+02 10 2016 13:40:06.536		start iterations
+02 10 2016 13:40:26.727		start iterations
+02 10 2016 13:44:32.461		end iterations
+TOTAL: 245.740204
+02 10 2016 13:44:32.480		reading groundtruth
+02 10 2016 13:44:32.526		evaluating performance
+AverageSDR = 8.901623 [dB]
+AverageSIR = 14.128429 [dB]
+AverageSAR = 10.968717 [dB]
+Sample 01 - END - 02 10 2016 13:45:08.349 
+************************************************************
